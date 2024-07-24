@@ -29,3 +29,6 @@
 - SoftCorrect: Error Correction with Soft Detection for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2212.01039v2)]
 - ASR Error Correction with Constrained Decoding on Operation Prediction [[paper](https://arxiv.org/pdf/2208.04641v1)]
 - Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2407.01909v1)]
+
+## star history
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#lujiarui-iie/error-correcttion-papers&Date" frameBorder="0"></iframe>
