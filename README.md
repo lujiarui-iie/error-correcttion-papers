@@ -1,4 +1,4 @@
-# error-correcttion-papers
+# Error-Correcttion-Papers
 
 - Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition [[paper](https://arxiv.org/pdf/2310.06434v2)]
 - LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2406.04432v1)]
@@ -30,6 +30,6 @@
 - ASR Error Correction with Constrained Decoding on Operation Prediction [[paper](https://arxiv.org/pdf/2208.04641v1)]
 - Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2407.01909v1)]
 
-## star history
+## Star History
 ![star-history-2024724](https://github.com/user-attachments/assets/a89f62f2-d121-40cb-af05-1cc9de74847f)
 
