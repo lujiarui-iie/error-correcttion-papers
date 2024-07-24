@@ -1,5 +1,5 @@
 # error-correcttion-papers
-- Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition [[paper]](https://arxiv.org/pdf/2310.06434v2)
+- Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition [[paper](https://arxiv.org/pdf/2310.06434v2)]
 - LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition [paper](https://arxiv.org/pdf/2406.04432v1)
 - Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models [paper](https://arxiv.org/pdf/2405.10025)
 - Generative Speech Recognition Error Correction With Large Language Models and Task-Activating Prompting [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10389673&tag=1)
