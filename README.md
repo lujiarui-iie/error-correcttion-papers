@@ -1,4 +1,5 @@
 # error-correcttion-papers
+
 - Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition [[paper](https://arxiv.org/pdf/2310.06434v2)]
 - LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2406.04432v1)]
 - Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2405.10025)]
@@ -18,4 +19,13 @@
 - Boosting Chinese ASR Error Correction with Dynamic Error Scaling Mechanism [[paper](https://www.isca-archive.org/interspeech_2023/fan23b_interspeech.pdf)]
 - UCorrect: An Unsupervised Framework for Automatic Speech Recognition Error Correction [[paper](https://arxiv.org/pdf/2401.05689)]
 - Crossmodal ASR Error Correction with Discrete Speech Units [[paper](https://arxiv.org/pdf/2405.16677)]
-- Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction [[paper](https://arxiv.org/abs/2306.09313)]
+- Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction [[paper](https://arxiv.org/pdf/2306.09313))]
+- Generative Speech Recognition Error Correction with Large Language Models and Task-Activating Prompting [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10389673)]
+- HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2309.15701v2)]
+- Crossmodal ASR Error Correction with Discrete Speech Units [[p]([url](https://arxiv.org/pdf/2405.16677v1))]
+- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition [[paper](https://arxiv.org/pdf/2401.10446v1)]
+- FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2105.03842v6)]
+- FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2109.14420v4)]
+- SoftCorrect: Error Correction with Soft Detection for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2212.01039v2)]
+- ASR Error Correction with Constrained Decoding on Operation Prediction [[paper](https://arxiv.org/pdf/2208.04641v1)]
+- Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2407.01909v1)]
