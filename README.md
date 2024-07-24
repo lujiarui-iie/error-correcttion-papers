@@ -22,7 +22,7 @@
 - Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction [[paper](https://arxiv.org/pdf/2306.09313))]
 - Generative Speech Recognition Error Correction with Large Language Models and Task-Activating Prompting [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10389673)]
 - HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2309.15701v2)]
-- Crossmodal ASR Error Correction with Discrete Speech Units [[p]([url](https://arxiv.org/pdf/2405.16677v1))]
+- Crossmodal ASR Error Correction with Discrete Speech Units [[paper](https://arxiv.org/pdf/2405.16677v1)]
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition [[paper](https://arxiv.org/pdf/2401.10446v1)]
 - FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2105.03842v6)]
 - FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition [[paper](https://arxiv.org/pdf/2109.14420v4)]
