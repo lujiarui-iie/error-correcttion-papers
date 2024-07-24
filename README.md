@@ -31,4 +31,4 @@
 - Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models [[paper](https://arxiv.org/pdf/2407.01909v1)]
 
 ## star history
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#lujiarui-iie/error-correcttion-papers&Date" frameBorder="0"></iframe>
+https://star-history.com/#lujiarui-iie/error-correcttion-papers&Date
