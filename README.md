@@ -50,8 +50,18 @@
 - Evaluation of Datasets Focused on Grammatical Error Correction Using the T5 Model in Slovak [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10524071)]
 - No Error Left Behind: Multilingual Grammatical Error Correction with Pre-trained Translation Models [[paper](https://aclanthology.org/2024.eacl-long.73.pdf)]
 - Multi-Reference Benchmarks for Russian Grammatical Error Correction [[paper](https://aclanthology.org/2024.eacl-long.76.pdf)]
-
-
+- Assessing the Efficacy of Grammar Error Correction: A Human Evaluation Approach in the Japanese Context [[paper](https://arxiv.org/pdf/2402.18101)]
+- Revisiting Meta-evaluation for Grammatical Error Correction [[paper](https://arxiv.org/pdf/2403.02674)]
+- Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT [[paper](https://arxiv.org/pdf/2403.16655)]
+- LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction [[paper](https://arxiv.org/pdf/2403.17413)]
+- Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction [[paper](https://arxiv.org/pdf/2403.17540)]
+- Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction [[paper](https://arxiv.org/pdf/2403.19283)]
+- Grammatical Error Correction for Code-Switched Sentences by Learners of English [[paper](https://arxiv.org/pdf/2404.12489)]
+- Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models [[paper](https://arxiv.org/pdf/2404.14914)]
+- Organic Data-Driven Approach for Turkish Grammatical Error Correction and LLMs [[paper](https://arxiv.org/pdf/2405.15320)]
+- Detection-Correction Structure via General Language Model for Grammatical Error Correction [[paper](https://arxiv.org/pdf/2405.17804)]
+- ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction [[paper](https://arxiv.org/pdf/2406.03202)]
+- Improving Grammatical Error Correction via Contextual Data Augmentation [[paper](https://arxiv.org/pdf/2406.17456)]
 
 ## Star History
 ![star-history-2024724](https://github.com/user-attachments/assets/a89f62f2-d121-40cb-af05-1cc9de74847f)
